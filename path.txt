@@ -1,0 +1,8 @@
+<html>
+<head>
+</head>
+<body>
+<img src="C:\Users\Ajay\Desktop\240_F_132169192_hlO3x0SGk7irwXHJ2UUZU93I3PPHVte2.jpg" width="400" alt="nature" />
+<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
+</body>
+</html>
